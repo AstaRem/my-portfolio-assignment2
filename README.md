@@ -6,17 +6,17 @@
 - **Mobile view:**
     ![Mobile view](img-readme/mobile1.PNG)
     ![Mobile view](img-readme/mobile2.PNG)
-    ![Mobile view](img-readme/Mobile3.PNG)
+    ![Mobile view](img-readme/mobile3.PNG)
 
 - **Tablet view:**
-    ![Tablet view](img-readme/Tablet1.PNG)
+    ![Tablet view](img-readme/tablet1.PNG)
     ![Tablet view](img-readme/tablet2.PNG)
-    ![Tablet view](img-readme/Tablet3.PNG)
+    ![Tablet view](img-readme/tablet3.PNG)
 
 - **Desktop view**:
-    ![Desktop view](img-readme/Desktop1.PNG)
-    ![Desktop view](img-readme/Desktop2.PNG)
-    ![Desktop view](img-readme/Desktop3.PNG)
+    ![Desktop view](img-readme/desktop1.PNG)
+    ![Desktop view](img-readme/desktop2.PNG)
+    ![Desktop view](img-readme/desktop3.PNG)
 
 
 - purpose of this project - to practice CSS: flexbox, grid, make them work together.
@@ -28,7 +28,7 @@
 - when user clicks on GitHub link in contact section, it opens in new window ant takes to my GitHub page. 
 
 ## My observation
-- what I learned that it is worth to take time in the beginning and plan how I will achieve the desired results, which properties I will use.
+- what I learned that it is worth to take time in the beginning and plan how I will achieve the desired design results, which CSS properties I will use.
 -  when building next similar project, it is worth to start coding from mobile view first, and desktop after.
 -  for some reason my profile image was not working on GitHub pages. I tried: rename it(case sensitive), move image to root level, write path in different ways, but nothing worked, this single image was not dispalying on the page(I only can see alt text and image icon). Thats why I created my-portfolio-assignment2 repository, uploaded all files here, deployed to Github pages and image is properly displaying now.
 
