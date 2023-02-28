@@ -30,6 +30,7 @@
 ## My observation
 - what I learned that it is worth to take time in the beginning and plan how I will achieve the desired results, which properties I will use.
 -  when building next similar project, it is worth to start coding from mobile view first, and desktop after.
+-  for some reason my profile image was not working on GitHub pages. I tried: rename it(case sensitive), move image to root level, write path in different ways, but nothing worked, this single image was not dispalying on the page(I only can see alt text and image icon). Thats why I created my-portfolio-assignment2 repository, uploaded all files here, deployed to Github pages and image is properly displaying now.
 
 ## Installation
 
@@ -37,6 +38,6 @@ No installation needed.
 
 ## Usage
 
-Please click this [link]() to review deployed project.
+Please click this [link](https://astarem.github.io/my-portfolio-assignment2/) to review deployed project.
 
 
